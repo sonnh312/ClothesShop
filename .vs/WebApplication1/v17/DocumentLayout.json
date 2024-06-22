@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_layoutabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layouthomepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_layoutcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\wwwroot\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\blog.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\views\\shared\\_layoutproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\wwwroot\\product.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\controllers\\tbproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\tbproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|d:\\it\\webdevlop\\webproject_ecommerce\\webapplication1\\webapplication1\\data\\dbclothesshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DACCCCD-9583-4D65-9B53-90C140FB5797}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\dbclothesshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutHomepage.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutHomepage.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwCQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:28:45.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:43:10.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutAbout.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutAbout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutAbout.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutAbout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutAbout.cshtml",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAAACQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:34:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutContact.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutContact.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutContact.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutContact.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutContact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:34:59.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:39:08.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:30:33.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "about.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\about.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\about.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\about.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\about.html",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T21:54:44.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "blog.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\blog.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\blog.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\blog.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\blog.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T21:31:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutProduct.cshtml",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutProduct.cshtml",
+              "ViewState": "AQIAAI8BAAAAAAAAAAAAALEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T21:34:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "product.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\product.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\product.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\product.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\product.html",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAIILAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T21:33:02.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\index.html",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\index.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-22T21:29:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:25:57.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TbProductsController.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Controllers\\TbProductsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TbProductsController.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Controllers\\TbProductsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TbProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:25:40.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:21:30.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbClothesShopContext.cs",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Data\\DbClothesShopContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\DbClothesShopContext.cs",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\Data\\DbClothesShopContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\DbClothesShopContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA+wCEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T21:18:31.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\IT\\WebDevlop\\WebProject_Ecommerce\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T21:14:54.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
